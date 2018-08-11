@@ -1,7 +1,7 @@
 # Awesome Deep Learning Resources 
 
 A Great list of AWESOME deep learning resources-
-Feel free to fork this notebook and improve this great collection.
+Feel free to fork this notebook and improve this great collection. <br/>
 Follow me on github to stay updated with further resources-
 [Sourav Nandi](https://github.com/souravstat)
 
