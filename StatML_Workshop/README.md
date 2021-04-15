@@ -1,4 +1,4 @@
-# Stats-Notes-IIT-ISI
+# Introduction to Machine Learning & Python
 My Lecture from the 'One Week Online Workshop on Statistics and Machine Learning in Practice' 
 
 Watch the full lecture for free : https://www.youtube.com/watch?v=9iciCF_Foyc&t=270s
